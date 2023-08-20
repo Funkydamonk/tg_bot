@@ -1,0 +1,5 @@
+venv/
+env
+__pycache__
+Parser.session
+to_do.txt
